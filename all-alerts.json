@@ -29,7 +29,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -37,7 +37,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "When this is used as a regular expression on a URL, it may match anywhere, and arbitrary hosts may come before or after it."
         },
@@ -84,7 +84,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -92,7 +92,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "This condition guards a sensitive action, but a user-provided value controls it."
         },
@@ -137,7 +137,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -145,7 +145,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "This condition guards a sensitive action, but a user-provided value controls it."
         },
@@ -190,7 +190,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -198,7 +198,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "This condition guards a sensitive action, but a user-provided value controls it.\nThis condition guards a sensitive action, but a user-provided value controls it."
         },
@@ -243,7 +243,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -251,7 +251,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "This condition guards a sensitive action, but a user-provided value controls it.\nThis condition guards a sensitive action, but a user-provided value controls it.\nThis condition guards a sensitive action, but a user-provided value controls it.\nThis condition guards a sensitive action, but a user-provided value controls it.\nThis condition guards a sensitive action, but a user-provided value controls it."
         },
@@ -295,7 +295,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -303,7 +303,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "The file may have changed since it was checked."
         },
@@ -348,7 +348,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -356,7 +356,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "Write to file system depends on Untrusted data."
         },
@@ -401,7 +401,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -409,7 +409,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "Write to file system depends on Untrusted data."
         },
@@ -453,7 +453,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -461,7 +461,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "Log entry depends on a user-provided value."
         },
@@ -506,7 +506,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -514,7 +514,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "A property name to write to depends on a user-provided value.\nA property name to write to depends on a user-provided value.\nA property name to write to depends on a user-provided value."
         },
@@ -559,7 +559,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -567,7 +567,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "A property name to write to depends on a user-provided value.\nA property name to write to depends on a user-provided value."
         },
@@ -612,7 +612,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -620,7 +620,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "A property name to write to depends on a user-provided value.\nA property name to write to depends on a user-provided value."
         },
@@ -665,7 +665,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -673,7 +673,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "A property name to write to depends on a user-provided value.\nA property name to write to depends on a user-provided value.\nA property name to write to depends on a user-provided value."
         },
@@ -718,7 +718,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -726,7 +726,7 @@
         "environment": "{\"language\":\"javascript-typescript\"}",
         "category": ".github/workflows/codeql-analysis.yml:analyze/language:javascript-typescript",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "153fd2940fa1812378b2877118ccf02799457e61",
         "message": {
           "text": "A property name to write to depends on a user-provided value."
         },
@@ -772,7 +772,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -780,7 +780,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This regular expression that depends on a user-provided value may run slow on strings with many repetitions of 'a'."
         },
@@ -825,7 +825,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -833,7 +833,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "'://htmledit.squarefree.com' can be anywhere in the URL, and arbitrary hosts may come before or after it."
         },
@@ -878,7 +878,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -886,7 +886,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "'://htmledit.squarefree.com' can be anywhere in the URL, and arbitrary hosts may come before or after it."
         },
@@ -930,7 +930,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -938,7 +938,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "Route handler for GET requests uses query parameter as sensitive data."
         },
@@ -982,7 +982,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -990,7 +990,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "Route handler for GET requests uses query parameter as sensitive data."
         },
@@ -1034,7 +1034,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1042,7 +1042,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "Route handler for GET requests uses query parameter as sensitive data."
         },
@@ -1086,7 +1086,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1094,7 +1094,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "Script loaded from content delivery network with no integrity check."
         },
@@ -1138,7 +1138,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1146,7 +1146,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "Script loaded from content delivery network with no integrity check."
         },
@@ -1192,7 +1192,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1200,7 +1200,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This route handler performs a file system access, but is not rate-limited.\nThis route handler performs a file system access, but is not rate-limited."
         },
@@ -1246,7 +1246,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1254,7 +1254,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This route handler performs a file system access, but is not rate-limited.\nThis route handler performs a file system access, but is not rate-limited."
         },
@@ -1300,7 +1300,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1308,7 +1308,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This route handler performs a file system access, but is not rate-limited."
         },
@@ -1354,7 +1354,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1362,7 +1362,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This route handler performs authorization, but is not rate-limited."
         },
@@ -1408,7 +1408,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1416,7 +1416,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This route handler performs a file system access, but is not rate-limited.\nThis route handler performs a file system access, but is not rate-limited.\nThis route handler performs a file system access, but is not rate-limited.\nThis route handler performs a file system access, but is not rate-limited.\nThis route handler performs a file system access, but is not rate-limited."
         },
@@ -1462,7 +1462,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1470,7 +1470,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This route handler performs a file system access, but is not rate-limited."
         },
@@ -1516,7 +1516,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1524,7 +1524,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This route handler performs a file system access, but is not rate-limited."
         },
@@ -1570,7 +1570,7 @@
       "tool": {
         "name": "CodeQL",
         "guid": null,
-        "version": "2.21.4"
+        "version": "2.22.0"
       },
       "most_recent_instance": {
         "ref": "refs/heads/master",
@@ -1578,7 +1578,7 @@
         "environment": "{}",
         "category": ".github/workflows/GHAS.yml:code-scanning",
         "state": "open",
-        "commit_sha": "3d1af6800bcf89fbed0781acd92041363903309b",
+        "commit_sha": "c1dea456b3e8b9015a5d11488bfe5adf2bff7c5a",
         "message": {
           "text": "This route handler performs a file system access, but is not rate-limited."
         },
@@ -1673,7 +1673,7 @@
         },
         "epss": {
           "percentage": 0.00055,
-          "percentile": 0.17395
+          "percentile": 0.17446
         },
         "cvss": {
           "vector_string": null,
@@ -2357,8 +2357,8 @@
           }
         },
         "epss": {
-          "percentage": 0.0002,
-          "percentile": 0.03727
+          "percentage": 0.00024,
+          "percentile": 0.04833
         },
         "cvss": {
           "vector_string": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L",
@@ -2589,7 +2589,7 @@
         },
         "epss": {
           "percentage": 0.00089,
-          "percentile": 0.26613
+          "percentile": 0.26488
         },
         "cvss": {
           "vector_string": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N",
@@ -3345,8 +3345,8 @@
           }
         },
         "epss": {
-          "percentage": 0.34733,
-          "percentile": 0.96757
+          "percentage": 0.41149,
+          "percentile": 0.97212
         },
         "cvss": {
           "vector_string": null,
